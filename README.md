@@ -1,5 +1,10 @@
 # coding
 Work in progress - Projects
+link: 
+https://katerinagiannouli.maize.gr/?fbclid=IwAR1FihpIlh1CzNrqkprFvuGJZRme2JQz_SBnhEm9-k3oYUI_PsrNXWDVP5Y
+
+username: testuser
+password: test123
 
 Unity AI
 ------------------------
